@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: chestnye-sayty-kazino.github.io
+Sitemap: https://chestnye-sayty-kazino.github.io/sitemap.xml
